@@ -1,0 +1,37 @@
+{
+    "name": "Pepperbox",
+    "description": "A plugin that adds Pepperbox as a source",
+    "Author": "JSOwens",
+    "authorUrl": "https://github.com/JSOwens",
+
+    "platformUrl": "https://pepperbox.tv",
+    "sourceUrl": "TODO",
+    "repositoryUrl": "TODO",
+    "scriptUrl": "./PepperboxScript.js",
+    "version": 1,
+    "iconUrl": "./Pepperbox.ico",
+    "id": "683e55ad-12ef-417c-9ef8-8940de3c0329",
+
+    "scriptSignature": "",
+    "scriptPublickey": "",
+    "packages": ["Http","DOMParser"],
+
+    "allowEval": false,
+    "allowUrls": [
+        "pepperbox.tv"
+    ],
+    "settings": [
+
+    ],
+
+    "authentication": {
+        "loginUrl": "https://pepperbox.tv/login",
+		"userAgent": "Mozilla/5.0 (Linux; Android 14) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.200 Mobile Safari/537.36",
+		"cookiesToFind": [ "u_s" ]
+    },
+
+    "supportedClaimTypes": [4],
+    "changelog": {
+
+    }
+}
