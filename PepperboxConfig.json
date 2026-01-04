@@ -5,8 +5,8 @@
     "authorUrl": "https://github.com/JSOwens",
 
     "platformUrl": "https://pepperbox.tv",
-    "sourceUrl": "TODO",
-    "repositoryUrl": "TODO",
+    "sourceUrl": "https://raw.githubusercontent.com/Jsowens/Grayjay_Pepperbox_Plugin/refs/heads/master/PepperboxConfig.json",
+    "repositoryUrl": "https://github.com/Jsowens/Grayjay_Pepperbox_Plugin",
     "scriptUrl": "./PepperboxScript.js",
     "version": 1,
     "iconUrl": "./Pepperbox.ico",
